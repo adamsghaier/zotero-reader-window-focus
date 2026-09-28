@@ -20,3 +20,6 @@ through Zotero's own update check.
 
 ## Release (maintainer)
 Bump `version` in `manifest.json`, commit, then run `./release.sh`.
+
+## License
+MIT, see [LICENSE](LICENSE).
