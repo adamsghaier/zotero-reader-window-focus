@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "reader-window-focus@adamsghaier.local": {
+      "updates": [
+        {
+          "version": "1.0.2",
+          "update_link": "https://github.com/adamsghaier/zotero-reader-window-focus/releases/download/v1.0.2/reader-window-focus.xpi",
+          "update_hash": "sha256:aec3b4c725bef6a2101ed9f5b1c0b48de84281d9f8146b37d5773a361c7d226e",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "7.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
